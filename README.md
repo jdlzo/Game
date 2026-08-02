@@ -32,16 +32,11 @@ git -C C:\Game clone https://github.com/jdlzo/Game.git
 cd C:\game\Game
 ls
 ```
-===EN DESARROLLO===
-
-5. Comandos basicos 
-
-    Como tal no vamos a trabajar con realizando commits directamente en la raiz del repositorio, usaremos los pull request y distintas ramas antes de hacer el comit definitivo a la raíz
-
-```bash 
-
-```
 Con estos pasos podras clonar nuestro repositorio a tu computador mediante git bash.
 # GitHub Desktop
 
+Ahora descargan Desktop si no lo tienen 
+```bash
+https://desktop.github.com/download/
+```
 
