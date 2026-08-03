@@ -5,6 +5,19 @@ tanto para realizar las animaciones, sprites e imagenes referenciales si es el c
 Para trabajar con este repositorio en sus computadoras deberan clonar el repositorio, 
 les dejo los pasos para hacerlo.
 
+### Estructura del proyecto
+
+``` 
+Game/
+├─ Assets/
+├─ Audio/
+├─ Docs/
+├─ Marketing/
+├─ Scripts/
+│  └─ Godot/
+└─ README.md
+```
+
 # Pasos para clonar repositorio Git Bash
 
 1. Crear una carpeta en su disco:
@@ -39,4 +52,4 @@ Ahora descargan Desktop si no lo tienen
 ```bash
 https://desktop.github.com/download/
 ```
-
+Inicias sesion y le das en clonar repositorio, como los voy a meter como colaboradores les debe aparecer el repositorio, caso contrario clonarlo mediante git bash y en Desktop usar la opcion de clonar repositorio local y listo.
