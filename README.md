@@ -142,7 +142,7 @@ Inicia sesión con tu cuenta de GitHub.
 
 Como los voy a agregar como colaboradores, el repositorio debería aparecer automáticamente en la lista de repositorios para clonar.
 
-Si no aparece, tienes deberán hacer lo siguiente:
+Si no aparece, deberán hacer lo siguiente:
 
 - Clonarlo mediante Git Bash.
 - En GitHub Desktop seleccionar **Add > Add Existing Repository** y elegir la carpeta donde clonaste el proyecto.
