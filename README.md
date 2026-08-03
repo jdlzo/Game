@@ -71,4 +71,4 @@ Ahora descargan Desktop si no lo tienen
 ```bash
 https://desktop.github.com/download/
 ```
-Inicias sesion y le das en clonar repositorio, como los voy a meter como colaboradores les debe aparecer el repositorio, caso contrario clonarlo mediante git bash y en Desktop usar la opcion de clonar repositorio local y listo.
+Inicias sesion y le das en clonar repositorio, como los voy a meter como colaboradores les debe aparecer el repositorio, caso contrario clonarlo mediante git bash y en Desktop usar la opcion de clonar repositorio o si usaste git bash la opcion de usar repositorio local y listo.
