@@ -9,17 +9,31 @@ les dejo los pasos para hacerlo.
 
 ``` 
 Game/
-├─ Assets/
-├─ Audio/
 ├─ Docs/
+|   └─ ----
 ├─ Marketing/
+|  └─ ----
 ├─ Projects/
 │  └─ Godot/
+│     └─ game-one/
+│        ├─ .godot/
+│        │  ├─ ---
+│        ├─ Assets/
+│        │  └─-----
+│        ├─ Audio/
+│        ├─ Scenes/
+│        │  └─ ----
+│        ├─ Script/
+│        │  ├─ ------
+│        ├─ .editorconfig
+│        └─ project.godot
 ├─ Tools/
 │  ├─ gimp-3.2.4-setup.rar
 │  └─ libresprite-development-windows-x86_64.zip
+├─ .gitignore
 ├─ .gitattributes
 └─ README.md
+
 
 ```
 

@@ -1,0 +1,12 @@
+.godot/
+
+.export/
+
+*.tmp
+
+.vscode/
+
+.idea/
+
+Thumbs.db
+Desktop.ini
