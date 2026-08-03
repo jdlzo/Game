@@ -11,6 +11,9 @@ Para trabajar con este repositorio en sus computadoras deberán clonarlo. A cont
 ```bash
 https://git-scm.com/
 ```
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/git/git-original.svg" height=170 width=300 >
+</p>
 
 ## 2. Tener instalado Git LFS
 
@@ -23,6 +26,7 @@ Una vez instalado Git LFS, abre Git Bash y ejecuta una sola vez:
 ```bash
 git lfs install
 ```
+
 
 ### ¿Para qué sirve Git LFS?
 
@@ -41,6 +45,9 @@ git lfs track "*.rar"
 ```
 
 Con esto cualquier archivo que tenga esa extensión será administrado automáticamente por Git LFS.
+<p align="center">
+<img src="https://git-lfs.com/images/graphic.gif" height=230>
+</p>
 
 ## 3. (Opcional) Instalar GitHub Desktop
 
@@ -141,3 +148,7 @@ Si no aparece, tienes dos opciones:
 - En GitHub Desktop seleccionar **Add > Add Existing Repository** y elegir la carpeta donde clonaste el proyecto.
 
 Y listo.
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/5f8b701d7521e27b4859d7e4f9b0da4c423c036c/Papirus/64x64/apps/github-desktop.svg" height=300>
+</p>
