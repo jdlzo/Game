@@ -18,7 +18,9 @@ Game/
 ├─ Tools/
 │  ├─ gimp-3.2.4-setup.rar
 │  └─ libresprite-development-windows-x86_64.zip
+├─ .gitattributes
 └─ README.md
+
 ```
 
 # Pasos para clonar repositorio Git Bash
