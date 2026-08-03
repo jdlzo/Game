@@ -6,7 +6,7 @@
 [node name="Node2D" type="Node2D" unique_id=1386992351]
 
 [node name="Sprite2D" type="Sprite2D" parent="." unique_id=504670327]
-position = Vector2(158.00005, 116.99998)
-scale = Vector2(2.3906243, 1.7031257)
+position = Vector2(137.50005, 129.99997)
+scale = Vector2(2.0703118, 1.9062506)
 texture = ExtResource("1_j2wod")
 script = ExtResource("2_v1qfn")
