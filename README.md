@@ -13,8 +13,11 @@ Game/
 ├─ Audio/
 ├─ Docs/
 ├─ Marketing/
-├─ Scripts/
+├─ Projects/
 │  └─ Godot/
+├─ Tools/
+│  ├─ gimp-3.2.4-setup.rar
+│  └─ libresprite-development-windows-x86_64.zip
 └─ README.md
 ```
 
