@@ -150,5 +150,5 @@ Si no aparece, tienes dos opciones:
 Y listo.
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/5f8b701d7521e27b4859d7e4f9b0da4c423c036c/Papirus/64x64/apps/github-desktop.svg" height=300>
+<img src="https://raw.githubusercontent.com/PapirusDevelopmentTeam/papirus-icon-theme/5f8b701d7521e27b4859d7e4f9b0da4c423c036c/Papirus/64x64/apps/github-desktop.svg" height=300 width=300>
 </p>
