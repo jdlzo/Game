@@ -1,12 +1,15 @@
+
 .godot/
-
 .export/
+.export_cache/
 
-*.tmp
 
 .vscode/
-
 .idea/
+
+*.tmp
+*.log
+
 
 Thumbs.db
 Desktop.ini
