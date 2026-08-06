@@ -24,7 +24,7 @@
 
 ---
 
-## BOSCA CEOIL:BLUE
+## BOSCA CEOIL:THE BLUE ALBUM
 
 <h3>
 
