@@ -76,8 +76,7 @@ Game/
 │        ├─ .editorconfig
 │        └─ project.godot
 ├─ Tools/
-│  ├─ gimp-3.2.4-setup.rar
-│  └─ libresprite-development-windows-x86_64.zip
+│  └─ README.md
 ├─ .gitignore
 ├─ .gitattributes
 └─ README.md
